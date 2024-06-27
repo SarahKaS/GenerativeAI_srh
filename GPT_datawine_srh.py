@@ -1,3 +1,7 @@
+# GPT model trained on the "Wine review Dataset" <br> 
+# Based on Apoorv Nandan's GPT tutorial (Keras website) and the Generative Deep Learning book from David Foster.
+
+
 
 # %load_ext autoreload
 # %autoreload 2
