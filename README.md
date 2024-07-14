@@ -4,8 +4,8 @@ Based on Apoorv Nandan's GPT tutorial (Keras website) and the Generative Deep Le
 
 **Citation_of_the_day:**
 This app gives a daily citation/quote based on people plan today.
-Input: response to "What are you doing today?"
-Ouput: Citation
+### Input: response to "What are you doing today?"
+### Ouput: Citation
 
 **LifeCoach_srh:**
-The app behave like a lifecoach chatboot, encouraging healthy, proactive and happy life and based on the current user feelings.
+The app behaves like a lifecoach chatboot, encouraging healthy, proactive and happy life and based on the current user feelings.
