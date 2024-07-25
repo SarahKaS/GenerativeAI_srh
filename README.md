@@ -6,7 +6,6 @@ Based on Apoorv Nandan's GPT tutorial (Keras website) and the Generative Deep Le
 This app gives a daily citation/quote based on people plan today.
 
 Input: response to "What are you doing today?"
-
 Ouput: Citation
 
 **LifeCoach_srh:**
